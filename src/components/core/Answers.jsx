@@ -38,7 +38,7 @@ class Answers extends Component {
             var myTime = setTimeout(() => {
                 this.clearClasses();
                 //console.log("IN SET Timeout")
-            }, 1300);
+            }, 1500);
         }
     }
     clearClasses(){
